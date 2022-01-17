@@ -1,0 +1,10 @@
+<div class="top-bar-container">
+  <span class="mr-10">
+    <button
+      mat-raised-button
+      color="primary"
+      (click)="newEmployee()"
+    >Hire New Employee</button>
+  </span>
+  <app-search (searchEmployee)="emitSearchText($event)"></app-search>
+</div>

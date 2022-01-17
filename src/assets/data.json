@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Jhon",
+    "lastName": "Doe",
+    "dob": "2002-01-03T23:00:00.000Z",
+    "position": "full-stack developer"
+  },
+  {
+    "id": "2",
+    "name": "Anne",
+    "lastName": "White",
+    "dob": "2002-01-25T23:00:00.000Z",
+    "position": "front-end developer"
+  },
+  {
+    "id": "3",
+    "name": "Carl",
+    "lastName": "Simons",
+    "dob": "2000-02-03T23:00:00.000Z",
+    "position": "sw admin"
+  },
+  {
+    "id": "4",
+    "name": "Dayanne",
+    "lastName": "Lopez",
+    "dob": "2000-04-05T23:00:00.000Z",
+    "position": "help desk"
+  },
+  {
+    "id": "5",
+    "name": "Henry",
+    "lastName": "Raines",
+    "dob": "1999-01-13T23:00:00.000Z",
+    "position": "scrum master"
+  },
+  {
+    "id": "6",
+    "name": "Roxy",
+    "lastName": "Romain",
+    "dob": "1998-11-12T23:00:00.000Z",
+    "position": "full-stack developer"
+  },
+  {
+    "id": "7",
+    "name": "Max",
+    "lastName": "Diaz",
+    "dob": "2002-11-03T23:00:00.000Z",
+    "position": "product manager"
+  },
+  {
+    "id": "8",
+    "name": "Luis",
+    "lastName": "Garcia",
+    "dob": "1988-01-09T23:00:00.000Z",
+    "position": "scrum master"
+  },
+  {
+    "id": "9",
+    "name": "Axel",
+    "lastName": "Ramos",
+    "dob": "2001-06-09T23:00:00.000Z",
+    "position": "product manager"
+  }
+]

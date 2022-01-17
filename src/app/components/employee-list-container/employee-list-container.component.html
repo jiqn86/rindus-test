@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="centered" *ngIf="!isDataLoaded">
+    <app-loading></app-loading>
+  </div>
+  <div class="app-container" *ngIf="isDataLoaded">
+    <app-top-bar
+      (addEmployee)="addEmployee()"
+      (searchText)="filterEmployees($event)"
+    ></app-top-bar>
+    <app-list
+      [dataSource]="employeesData"
+      [positions]="positions"
+      (updateCopy)="updateCopy($event)"
+    ></app-list>
+  </div>
+</div>
